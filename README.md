@@ -1,5 +1,5 @@
-In this project, we cleaned and explored to find insights and patterns using SQL. 
-We gots insights like, the customers that reside in the same address,
+In this project, I cleaned and explored to find insights and patterns using SQL. 
+I gots insights like, the customers that reside in the same address,
 the customer that spent the highest money,
 the movies that has been rented so far,
 the movie that was rented the most,
