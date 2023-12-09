@@ -1,4 +1,4 @@
-In this project, I cleaned and explored to find insights and patterns using SQL. 
+In this project, I cleaned and explored to find insights and patterns using postgreSQL. 
 I gots insights like, the customers that reside in the same address,
 the customer that spent the highest money,
 the movies that has been rented so far,
