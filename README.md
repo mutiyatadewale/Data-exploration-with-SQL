@@ -8,5 +8,5 @@ the profit made by each store,
 number of movies rented under each ratings,
 the actors that acted in more than 20 movies,
 number of movies each actors have acted,
-name and number of movies under PG.
+name and number of movies under PG
 and many other interesting insights.
